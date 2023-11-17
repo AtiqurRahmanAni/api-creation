@@ -23,3 +23,4 @@ Then run ```py.exe .\manage.py runserver```
 Goto task folder using ```cd task``` command
 Then run ```coverage run .\manage.py test``` and then run ```coverage report```
 
+The json file of postman for testing the API endpoint is added. Import the json file to postman
