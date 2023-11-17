@@ -11,3 +11,15 @@ py.exe -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+### Environment Setup
+
+### For running the project
+Goto task folder using ```cd task``` command
+Then run ```py.exe .\manage.py runserver```
+
+### For coverage testing
+
+Goto task folder using ```cd task``` command
+Then run ```coverage run .\manage.py test``` and then run ```coverage report```
+
